@@ -1,7 +1,13 @@
+*{
+  color: white;
+  margin: 0;
+}
 .App {
   text-align: center;
 }
-
+.app__main{
+  display:flex ;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
